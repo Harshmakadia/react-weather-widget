@@ -7,3 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. npm install
 2. npm start
 
+## Note
+
+.env file is committed so that you don't need to replace the key and can directly run the app
